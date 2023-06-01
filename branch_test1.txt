@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 function_A branch test
+=======
+funcion_B branch test 1
+>>>>>>> function_B
